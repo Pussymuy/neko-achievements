@@ -5,7 +5,7 @@
   threshold: 15
   metadata:
     title_ru: Добро пожаловать!
-    text_ru: Легкой поступью вы вошли в этот мир.
+    text_ru: Легкой поступью вы вошли в этот мир!
     image: /assets/achievements/anime/animelist_1.png
     border_color: "#e52b50"
     topic_id: 227416
